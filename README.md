@@ -11,6 +11,6 @@ This demonstration was developed using JDeveloper 11.1.2.4.0 and tested against 
 3. Setup:
 To run this demonstration, just import the project to your JDeveloper install and deploy to the device / emulator oe simulator of your choice.
 
-4: Contact
+4. Contact
 Marcelo Jabali
 marcelo.jabali@oracle.com
